@@ -1,0 +1,25 @@
+﻿  DrawApp2_pixels.cpp
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(11,12): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,49): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,49): warning C4244:         with
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,49): warning C4244:         [
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,49): warning C4244:             T=float
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,49): warning C4244:         ]
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,40): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,40): warning C4244:         with
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,40): warning C4244:         [
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,40): warning C4244:             T=float
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(123,40): warning C4244:         ]
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(182,68): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(182,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  imgui-SFML.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Создание кода
+  1937 of 1943 functions (99.7%) were compiled, the rest were copied from previous compilation.
+    118 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Создание кода завершено
+  DrawApp2_pixels.vcxproj -> E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\x64\Release\DrawApp2_pixels.exe

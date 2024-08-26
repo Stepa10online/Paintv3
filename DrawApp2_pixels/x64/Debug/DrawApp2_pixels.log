@@ -1,0 +1,20 @@
+﻿  DrawApp2_pixels.cpp
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,49): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,49): warning C4244:         with
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,49): warning C4244:         [
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,49): warning C4244:             T=float
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,49): warning C4244:         ]
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,40): warning C4244: аргумент: преобразование "T" в "unsigned int", возможна потеря данных
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,40): warning C4244:         with
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,40): warning C4244:         [
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,40): warning C4244:             T=float
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(44,40): warning C4244:         ]
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(90,64): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\DrawApp2_pixels.cpp(90,56): warning C4244: аргумент: преобразование "int" в "float", возможна потеря данных
+  imgui-SFML.cpp
+  imgui.cpp
+  imgui_draw.cpp
+  imgui_tables.cpp
+  imgui_widgets.cpp
+  Создание кода...
+  DrawApp2_pixels.vcxproj -> E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\x64\Debug\DrawApp2_pixels.exe

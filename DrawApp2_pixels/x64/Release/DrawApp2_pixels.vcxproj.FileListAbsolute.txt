@@ -1,0 +1,2 @@
+E:\1.Projects\1.Sfml Games\4.Projects in progress\DrawApp2_pixels\DrawApp2_pixels\x64\Release\DrawApp2_pixels.exe
+E:\1.Projects\1.Sfml Games\1.Completed Projects\DrawApp2_pixels\DrawApp2_pixels\x64\Release\DrawApp2_pixels.exe
